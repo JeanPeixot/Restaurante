@@ -68,4 +68,9 @@ header{
         gap: 12px;
         margin: 12px 0px;
     }
+
+    #mobile_nav_list .nav-item{
+        list-style: none;
+        text-align: center;
+    }
 }
