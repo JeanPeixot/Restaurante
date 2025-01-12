@@ -23,3 +23,8 @@
 #cta .description{
     font-size: 1.2rem;
 }
+
+#cta_buttons{
+    display: flex;
+    gap: 24px;
+}
