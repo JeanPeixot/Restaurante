@@ -46,3 +46,23 @@
     border-radius: 12px;
 
 }
+
+#banner {
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    width: 70%;
+}
+
+#banner img {
+    height: 100%;
+    width: fit-content ;
+
+}
+
+.shape{
+    background-color: #ffe8b4;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+}
