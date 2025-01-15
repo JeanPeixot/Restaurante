@@ -52,3 +52,9 @@
 .dish-rate i {
     color: #e9a209;
 }
+
+.dish-price {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
